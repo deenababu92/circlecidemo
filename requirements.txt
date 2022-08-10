@@ -8,7 +8,7 @@ Jinja2==3.0.3
 MarkupSafe==2.0.1
 pytest==7.0.1
 typing-extensions==4.1.1
-Werkzeug==0.16.1
+Werkzeug==2.0.0
 wincertstore==0.2
 zipp==3.6.0
 
